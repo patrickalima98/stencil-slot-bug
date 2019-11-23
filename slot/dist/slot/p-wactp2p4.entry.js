@@ -1,0 +1,1 @@
+import{r as t,h as n}from"./p-45a4c579.js";const s=class{constructor(n){t(this,n)}render(){return n("div",null,n("slot",null),n("div",{class:"end"},n("slot",{name:"end"})))}static get style(){return""}};export{s as my_component};

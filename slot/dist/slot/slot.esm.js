@@ -1,0 +1,1 @@
+import{p,b as a}from"./p-45a4c579.js";p().then(p=>a([["p-wactp2p4",[[6,"my-component"]]]],p));
